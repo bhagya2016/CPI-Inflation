@@ -1,6 +1,6 @@
 # CPI Inflation Analysis Project
 
-![CPI Inflation Analysis](image(1).png)
+![CPI Inflation Analysis](image.png)
 
 ---
 
